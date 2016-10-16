@@ -1,0 +1,5 @@
+you should use reg32_0 to initialize $zero value to 0
+
+and   reg32_1 to initialize $1 reg1 value to 1
+
+and other registers by generic reg
